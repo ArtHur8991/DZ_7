@@ -1,4 +1,3 @@
-# Path: errhandling.py
 import logger as log
 import config as cfg
 import datetime as dt
